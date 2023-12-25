@@ -6,4 +6,4 @@ btn.addEventListener("click", function(){
 	let count = Number(para.innerText);
 	alert(count);
 	para.innerText = ++count;
-}
+})
